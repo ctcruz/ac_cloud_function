@@ -11,6 +11,6 @@ steps:
   - --trigger-http
   - --runtime=python39
   - --memory=128MB
-  - --project=cloud-functions01
+  - --project=cloud-course-432708
   - --entry-point=hello_world
   - --update-labels=course=cloud_functions,env=dev,layer=raw
